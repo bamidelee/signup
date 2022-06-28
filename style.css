@@ -3,7 +3,7 @@
 }
 @font-face {
     font-family: nose;
-    src: url(../../fonts/Norse-Bold.otf);
+    src: url(./Norse-Bold.otf);
 }
 body{
     background-color: black;
@@ -23,7 +23,7 @@ form{
 }
 .col1{
     grid-row:1/4;
-    background-image: url(../../images/pexels-tiểu-linh-11635798.jpg);
+    background-image: url(./pexels-tiểu-linh-11635798.jpg);
     background-position: center;
     background-size: auto;
     position: relative;
