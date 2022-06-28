@@ -59,6 +59,9 @@ img{
     display: inline-block;
 
 }
+label{
+    font-size: 0.8rem;
+}
 input{
     width: 90%;
     border: 1px solid grey;
@@ -101,5 +104,6 @@ input:focus:invalid{
         width: 100%;
      
     }
+    
    
 }
